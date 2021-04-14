@@ -108,7 +108,7 @@ def get_readable_message():
                 except:
                     pass
             if download.status() == MirrorStatus.STATUS_DOWNLOADING:
-                msg += f"\n<b>GID</b>:/gak <code>{download.gid()}</code>"
+                msg += f"\n<b>GID</b>: /gak <code>{download.gid()}</code>"
             msg += "\n\n"
         return msg
 
