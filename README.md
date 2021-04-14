@@ -1,3 +1,6 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 # Important - Read these points first
 - Original repo is https://github.com/lzzy12/python-aria-mirror-bot
 - I have collected some cool features from various repositories and merged them in one.
